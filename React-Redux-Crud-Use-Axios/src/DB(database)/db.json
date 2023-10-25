@@ -1,0 +1,25 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "phone": 1234567890,
+      "country": "India"
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "9090909009",
+      "country": "india",
+      "id": 2
+    },
+    {
+      "name": "demo1",
+      "email": "demo@gmail.com",
+      "phone": 1234567890,
+      "country": "USA",
+      "id": 3
+    }
+  ]
+}
